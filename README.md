@@ -19,7 +19,7 @@ A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock 
 
 Download [ChatTriggers](https://chattriggers.com/) for 1.8.9.
 
-Download the latest version from [releases](https://github.com/soshlmee/Soshimee-Addons/releases).
+Download the latest version from releases.
 
 Extract the .zip into the ChatTriggers modules folder.
 

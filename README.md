@@ -1,4 +1,4 @@
-# Cyanaddons
+# Cyan Addons
 A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock Dungeons 
 
 # Features:
@@ -22,7 +22,7 @@ Download [ChatTriggers](https://chattriggers.com/) for 1.8.9.
 
 Download the latest version
 
-Extract the .7z into the ChatTriggers modules folder.
+Extract the .zip into the ChatTriggers modules folder.
 
 In game, do /ct reload
 

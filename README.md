@@ -1,5 +1,5 @@
 # Cyan Addons
-A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock Dungeons 
+A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock Dungeons (Mostly F7 and M7)
 
 # Features:
 - Better party finder gui

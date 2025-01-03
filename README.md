@@ -26,4 +26,4 @@ Extract the .zip into the ChatTriggers modules folder.
 
 In game, do /ct reload
 
-Enjoy!
+Enjoy! (/cyan to open the menu)

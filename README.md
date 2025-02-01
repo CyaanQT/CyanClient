@@ -1,4 +1,4 @@
-# Ruby Addons
+# CyanClient
 A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock Dungeons (Mostly F7 and M7)
 
 # Features:
@@ -26,4 +26,4 @@ Extract the .zip into the ChatTriggers modules folder.
 
 In game, do /ct reload
 
-Enjoy! (/ruby to open the menu)
+Enjoy! (/cyan to open the menu)
